@@ -9,4 +9,4 @@ This entire operation is powered by JavaScript.
 ### Demo Video
 [Watch the demo](https://github.com/user-attachments/assets/4ad11c78-4285-4731-8947-f7ae18d5de2f)
 
-Inspired by [Recursion](https://recursionist.io/)
+_Inspired by [Recursion](https://recursionist.io/)_
